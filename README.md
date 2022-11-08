@@ -1,4 +1,4 @@
-🎓 I'm a Boolean Careers graduated Full Stack Web Developer.
+🎓 I'm a Boolean Student learning Full Stack Web Developer.
 
 📍 *Based in:* Lecce, Puglia   
 📫 *How to reach me:* salvatorecolopi1989@gmail.com   
