@@ -7,7 +7,6 @@
 ![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 
 🎯 *I’m currently learning:*   
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 
